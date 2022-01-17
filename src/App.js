@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Rastaman ready!
+          Rastaman fix!
         </p>
         <a
           className="App-link"
